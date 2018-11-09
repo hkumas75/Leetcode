@@ -1,0 +1,7 @@
+def singleNumber(nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """ 
+    single_numbers = [i for i in nums if (nums.count (i) == 1)]
+    return single_numbers
