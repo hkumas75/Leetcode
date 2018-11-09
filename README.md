@@ -1,6 +1,6 @@
 # 66_Plus_One
 Add 1 to a given list of numbers assuming the whole list as a single number and show the result as a list
-# 728_Self_Dividin_gNumbers
+# 728_Self_Dividing_Numbers
 A self-dividing number is a number that is divisible by every digit it contains.
 # 747_Largest_Number_At_Least_Twice_of_Others
 In a given integer array nums, there is always exactly one largest element.
