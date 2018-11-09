@@ -1,0 +1,13 @@
+def selfDividingNumbers(left, right):
+    """
+    :type left: int
+    :type right: int
+    :rtype: List[int]
+    """
+    self_divided_numbers = []
+    for each in range (left, right+1):
+        self_numbers = [int (number) for number in str(each)]
+        divided_numbers = [False if number == 0 or each % number != 0  else True for number in [int (number) for number in str(each)]]
+        if  all (divided_numbers) == True:
+            self_divided_numbers.append (each)
+    return self_divided_numbers
