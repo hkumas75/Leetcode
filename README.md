@@ -1,4 +1,4 @@
-# 66_Plus_One_Digit
+# 66_Plus_One
 Add 1 to a given list of numbers assuming the whole list as a single number and show the result as a list
 # 728_Self_Dividin_gNumbers
 A self-dividing number is a number that is divisible by every digit it contains.
