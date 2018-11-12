@@ -3,5 +3,10 @@ def singleNumber(nums):
     :type nums: List[int]
     :rtype: List[int]
     """ 
-    single_numbers = [i for i in nums if (nums.count (i) == 1)]
-    return single_numbers
+    single_numbers = {} 
+    for i in nums:
+        if i not in single_numbers:
+            single_numbers [i] = ""
+        else:
+            del single_numbers [i] 
+    return list (single_numbers.keys ())
