@@ -1,9 +1,0 @@
-def plusOne(digits):
-    """
-    :type digits: List[int]
-    :rtype: List[int]
-    """
-    whole_number = [ str (each) for each in digits]
-    whole_number_plus_one = int ("".join(whole_number))+1
-    final_digits = [ int (num) for num in str (whole_number_plus_one)]
-    return final_digits
