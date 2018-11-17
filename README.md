@@ -11,3 +11,5 @@ Given two strings A and B of lowercase letters, return true if and only if we ca
 Given an array of numbers nums, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.
 # 917_Reverse_Only_Letters
 Given a string S, return the "reversed" string where all characters that are not a letter stay in the same place, and all letters reverse their positions.
+# 345_Reverse_Vowels_of_a_String
+Write a function that takes a string as input and reverse only the vowels of a string.
