@@ -13,3 +13,5 @@ Given an array of numbers nums, in which exactly two elements appear only once a
 Given a string S, return the "reversed" string where all characters that are not a letter stay in the same place, and all letters reverse their positions.
 # 345_Reverse_Vowels_of_a_String
 Write a function that takes a string as input and reverse only the vowels of a string.
+# 287_Find the Duplicate Number
+Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
