@@ -23,3 +23,5 @@ Given an input string, reverse the string word by word.
 Given an unsorted integer array, find the smallest missing positive integer.
 # 315_Count of Smaller Numbers After Self
 You are given an integer array nums and you have to return a new counts array. The counts array has the property where counts[i] is the number of smaller elements to the right of nums[i].
+# 442_Find All Duplicates in an Array
+Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once. Find all the elements that appear twice in this array.
