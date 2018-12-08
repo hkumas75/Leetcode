@@ -17,3 +17,5 @@ Write a function that takes a string as input and reverse only the vowels of a s
 Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
 # 8_String to Integer (atoi)
 Implement atoi which converts a string to an integer.The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
+# 151_Reverse Words in a String
+Given an input string, reverse the string word by word.
